@@ -1,0 +1,15 @@
+[submodule "Core"]
+	path = Core
+	url = https://github.com/RainBowCreation/Core.git
+[submodule "autoscale"]
+	path = autoscale
+	url = https://github.com/RainBowCreation/autoscale.git
+[submodule "auth"]
+	path = auth
+	url = https://github.com/RainBowCreation/auth.git
+[submodule "website"]
+	path = website
+	url = https://github.com/RainBowCreation/website.git
+[submodule "resourcepack"]
+	path = resourcepack
+	url = https://github.com/RainBowCreation/resourcepack.git
